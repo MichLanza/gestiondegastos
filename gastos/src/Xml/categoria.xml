@@ -1,0 +1,30 @@
+<root>
+  <Categorias>
+    <Nombre>Teléfono</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Electricidad</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Alquiler</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Internet</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Plan de datos</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Otros ingresos</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Cable</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Gastos Comunes</Nombre>
+  </Categorias>
+  <Categorias>
+    <Nombre>Comida</Nombre>
+  </Categorias>
+
+</root>

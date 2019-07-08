@@ -1,0 +1,50 @@
+<Root>
+  <Movimientos>
+    <tipo>Ingreso</tipo>
+    <cantidad>4000.0</cantidad>
+    <descripcion>bla</descripcion>
+    <categoria>Sueldo </categoria>
+    <mes>Enero</mes>
+    <real>5000.0</real>
+  </Movimientos>
+  <Movimientos>
+    <tipo>Ingreso</tipo>
+    <cantidad>80000.0</cantidad>
+    <descripcion />
+    <categoria>Otros ingresos</categoria>
+    <mes>Junio</mes>
+    <real>70000.0</real>
+  </Movimientos>
+  <Movimientos>
+    <tipo>Gasto</tipo>
+    <cantidad>2000.0</cantidad>
+    <descripcion />
+    <categoria>Electricidad</categoria>
+    <mes>Junio</mes>
+    <real>500.0</real>
+  </Movimientos>
+  <Movimientos>
+    <tipo>Gasto</tipo>
+    <cantidad>5000.0</cantidad>
+    <descripcion />
+    <categoria>Nuevo</categoria>
+    <mes>Febrero</mes>
+    <real>0.0</real>
+  </Movimientos>
+  <Movimientos>
+    <tipo>Gasto</tipo>
+    <cantidad>200.0</cantidad>
+    <descripcion />
+    <categoria>Electricidad</categoria>
+    <mes>Enero</mes>
+    <real>500.0</real>
+  </Movimientos>
+  <Movimientos>
+    <tipo>Gasto</tipo>
+    <cantidad>300.0</cantidad>
+    <descripcion />
+    <categoria>Alquiler</categoria>
+    <mes>Enero</mes>
+    <real>500.0</real>
+  </Movimientos>
+</Root>
